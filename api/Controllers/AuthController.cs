@@ -1,6 +1,5 @@
 using System.Security.Claims;
-using api.DTOs;
-using api.Models;
+using api.DTOs.AuthDto;
 using api.Repositories.Interfaces;
 using api.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;
